@@ -8,7 +8,7 @@ DateApproved: 7/7/2016
 MetaDescription: This topic helps you get acquainted with the Visual Studio Code user interface.
 ---
 
-# The Basics of Visual Studio Code
+# Visual Studio Code 基本使用
 
 At its heart, Visual Studio Code is a code editor. Like many other code editors, VS Code adopts a common user interface and layout of an explorer on the left, showing all of the files and folders you have access to, and an editor on the right, showing the content of the files you have opened.
 
