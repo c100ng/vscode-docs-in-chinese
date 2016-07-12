@@ -524,7 +524,7 @@ Below is a copy of the default `settings.json` file.
     // Maximum number of line breaks to be preserved in one chunk. Use 'null' for unlimited.
     "html.format.maxPreserveNewLines": null,
 
-    // Format and indent {{#foo}} and {{/foo}}.
+    // Format and indent {%raw%}{{#foo}} and {{/foo}}.{%endraw%}
     "html.format.indentHandlebars": false,
 
     // End with a newline.

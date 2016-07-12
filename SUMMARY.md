@@ -1,6 +1,7 @@
 # 目录
 
 * [简介](README.md)
+* [贡献](CONTRIBUTING.md)
 * 安装
   * [Overview](docs/setup/setup-overview.md)
   * [OS X](docs/setup/osx.md)
