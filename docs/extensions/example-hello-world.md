@@ -8,7 +8,7 @@ DateApproved: 7/7/2016
 MetaDescription: Create your first Visual Studio extension (plug-in) with a simple Hello Word example.  This walkthrough will take you through the basics of VS Code extensibility.
 ---
 
-# Example - Hello World
+# 实例 - Hello World
 
 ## Your First Extension
 
